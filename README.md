@@ -35,6 +35,13 @@ SpringBoot 框架，充电桩平台+充电桩系统+充电平台+充电桩+互�
 ![003](https://github.com/user-attachments/assets/1af07cdd-6dfb-402f-a8ce-b1219423f3a5)
 ![002](https://github.com/user-attachments/assets/b59250cc-0ac6-457e-9ce4-4dcc1f324be3)
 ![001](https://github.com/user-attachments/assets/96b0cad5-1abe-43b4-a465-e9f4e7eb3b6d)
-![lianxi](https://github.com/user-attachments/assets/82190b39-c28a-441c-83b7-f6959dfbcd5e)
+
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/7ae18880-eff5-417f-adfe-eb778a6d31e8)
+
 
 
